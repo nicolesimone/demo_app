@@ -1,3 +1,7 @@
+#ruby on rails tutorial: demonstration application
+
+This is the demonstration application for [*ruby on rails tutorial: learn rails by example*](http://railstutorial.org) by [Michael Hartl performed by Nicole Simone February](http://michaelhartl.com).
+
 == README
 
 This README would normally document whatever steps are necessary to get the
